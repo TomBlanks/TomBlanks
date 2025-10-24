@@ -1,7 +1,5 @@
 # Hi, I'm Tom 👋
 
----
-
 🌐 **Check out my portfolio at [tomblanks.com](https://www.tomblanks.com)**
 
 🎓 **Computer Science student** at the University of Nottingham (First Class Honours)  
@@ -9,8 +7,8 @@
 
 **Current Focus:**
 - Front-end development with test-driven practices
-- Requirements engineering and formal specifications
-- Operating systems and low-level programming
+- UI/UX design and prototyping with Figma
+- Exploring AI and machine learning applications
 
 ## 🛠️ Technical Stack
 
