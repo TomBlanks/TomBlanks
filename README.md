@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tom 👋
 
-<!--
-**TomBlanks/TomBlanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌐 **Check out my portfolio at [tomblanks.com](https://www.tomblanks.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Computer Science student** at the University of Nottingham (First Class Honours)  
+💼 **Aspiring Software Engineer** with a passion for quality-driven development and user-centric design
+
+**Current Focus:**
+- Front-end development with test-driven practices
+- Requirements engineering and formal specifications
+- Operating systems and low-level programming
+
+## 🛠️ Technical Stack
+
+**Languages:** Python • Java • C • JavaScript • HTML/CSS • Haskell • SQL  
+**Tools & Frameworks:** Git • Figma • Playwright • Supabase • Unity • Blender • Jira
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thomas--blanks-blue?style=flat&logo=linkedin)](https://linkedin.com/in/thomas-blanks)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-tomblanks.com-green?style=flat&logo=google-chrome)](https://www.tomblanks.com)  
+[![Email](https://img.shields.io/badge/Email-atomblanks%40gmail.com-red?style=flat&logo=gmail)](mailto:atomblanks@gmail.com)
+
+---
+
+💡 *Open to collaborations on projects involving software quality, UX design, or systems programming*
