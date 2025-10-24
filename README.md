@@ -19,4 +19,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thomas--blanks-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-blanks)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-tomblanks.com-green?style=flat&logo=globe)](https://www.tomblanks.com)  
-[![Email](https://img.shields.io/bade/Email-atomblanks%40gmail.com-red?style=flat&logo=gmail)](mailto:atomblanks@gmail.com)
+[![Email](https://img.shields.io/badge/Email-atomblanks%40gmail.com-red?style=flat&logo=gmail)](mailto:atomblanks@gmail.com)
