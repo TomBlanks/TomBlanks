@@ -1,7 +1,5 @@
 # Hi, I'm Tom 👋
 
-🌐 **Check out my portfolio at [tomblanks.com](https://www.tomblanks.com)**
-
 🎓 **Computer Science student** at the University of Nottingham (First Class Honours)  
 💼 **Aspiring Software Engineer** with a passion for quality-driven development and user-centric design
 
