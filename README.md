@@ -4,9 +4,9 @@
 💼 **Aspiring Software Engineer** with a passion for quality-driven development and user-centric design
 
 **Current Focus:**
+- Exploring AI and machine learning applications
 - Front-end development with test-driven practices
 - UI/UX design and prototyping with Figma
-- Exploring AI and machine learning applications
 
 ## 🛠️ Technical Stack
 
