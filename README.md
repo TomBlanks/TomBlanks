@@ -4,14 +4,7 @@
 💼 **Aspiring Software Engineer** with a passion for quality-driven development and user-centric design
 
 **Current Focus:**
-- Exploring AI and machine learning applications
-- Front-end development with test-driven practices
-- UI/UX design and prototyping with Figma
-
-## 🛠️ Technical Stack
-
-**Languages:** Python • Java • C • JavaScript • HTML/CSS • Haskell • SQL  
-**Tools & Frameworks:** Git • Figma • Playwright • Supabase • Unity • Blender • Jira
+- Exploring AI and machine learning
 
 ## 📫 Let's Connect
 
