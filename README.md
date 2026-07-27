@@ -1,10 +1,16 @@
 # Hi, I'm Tom 👋
 
-🎓 **Computer Science student** at the University of Nottingham (First Class Honours)  
-💼 **Aspiring Software Engineer** with a passion for quality-driven development and user-centric design
+Recent Computer Science graduate (First-class, University of Nottingham),
+looking to start my career as a software engineer on a small, fast-moving team.
 
-**Current Focus:**
-- Exploring AI and machine learning
+### A note on my repositories
+Most of my repos are private. The bulk of my code is university coursework,
+and my university asks students not to publish assessed work publicly, since
+it can be copied by students in later years.
+
+I'm very happy to share this work with anyone reviewing my application:
+- I can add you as a **read-only collaborator** on any private repo — just send your GitHub username
+- I can walk through any project live in an interview
 
 ## 📫 Let's Connect
 
