@@ -5,11 +5,6 @@
   Looking for my first role as a software or AI engineer on a small, fast-moving team.
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/thomas-blanks"><img src="https://img.shields.io/badge/LinkedIn-thomas--blanks-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:atomblanks@gmail.com"><img src="https://img.shields.io/badge/Email-atomblanks%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 ## What I'm looking for
 
 A graduate or junior engineering role somewhere small enough that I'll own real problems early, ship often, and work next to great people I can really learn from.
@@ -46,5 +41,7 @@ I'm very happy to share any of it with anyone reviewing my application:
 ---
 
 <p align="center">
-  Always happy to talk about a role, a project, or a problem you're stuck on — <a href="mailto:atomblanks@gmail.com">drop me a line</a>.
+  <a href="https://linkedin.com/in/thomas-blanks"><img src="https://img.shields.io/badge/LinkedIn-thomas--blanks-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:atomblanks@gmail.com"><img src="https://img.shields.io/badge/Email-atomblanks%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
