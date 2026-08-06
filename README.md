@@ -42,6 +42,7 @@ Everything linked above is my own work and is public.
 ## What I work with
 
 **Languages** — Python, JavaScript, Java, MATLAB, HTML/CSS
+
 **Currently learning** — Rust
 
 ---
