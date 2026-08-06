@@ -18,11 +18,6 @@ A graduate or junior engineering role somewhere small enough that I'll own real 
 
 Right now I'm most interested in general **software engineering** and **applied AI engineering** roles.
 
-## What I work with
-
-**Languages** — Python, JavaScript, Java, MATLAB, HTML/CSS
-
-**Currently learning** — Rust
 
 ## Things I've built
 
@@ -32,6 +27,7 @@ Right now I'm most interested in general **software engineering** and **applied 
 | **[CineBot](link)** | Books cinema tickets end to end — asynchronous slot-filling, interruption recovery and persistent state, so it copes when a user changes their mind halfway through. | **72%** intent accuracy across 12 intents — **9×** baseline | `Python` `scikit-learn` `NLTK` |
 
 <sub>The two university projects above are write-ups — results, diagrams and sample outputs. Code available on request (see below).</sub>
+
 
 ## A note on my repositories
 
@@ -44,6 +40,12 @@ I'm very happy to share any of it with anyone reviewing my application:
 
 Everything linked above is my own work and is public.
 
+
+## What I work with
+
+**Languages** — Python, JavaScript, Java, MATLAB, HTML/CSS
+
+**Currently learning** — Rust
 ---
 
 <p align="center">
