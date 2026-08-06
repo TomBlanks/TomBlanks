@@ -36,8 +36,6 @@ I'm very happy to share any of it with anyone reviewing my application:
 - Send me your GitHub username and I'll add you as a **read-only collaborator** on any repo
 - Or I'll walk you through the code and the decisions behind it in an interview
 
-Everything linked above is my own work and is public.
-
 
 ## What I work with
 
