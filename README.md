@@ -1,33 +1,8 @@
 <h1 align="center">Hi, I'm Tom 👋</h1>
 
 <p align="center">
-First-class Computer Science graduate<a href="http:///">Meuze</a><br />
-
-</p>
-
-Recent , University of Nottingham),
-looking to start my career as a software engineer on a small, fast-moving team.
-
-### A note on my repositories
-Most of my repos are private. The bulk of my code is university coursework,
-and my university asks students not to publish assessed work publicly, since
-it can be copied by students in later years.
-
-I'm very happy to share this work with anyone reviewing my application:
-- I can add you as a **read-only collaborator** on any private repo — just send your GitHub username
-- I can walk through any project live in an interview
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thomas--blanks-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-blanks)  
-[![Email](https://img.shields.io/badge/Email-atomblanks%40gmail.com-red?style=flat&logo=gmail)](mailto:atomblanks@gmail.com)
-
-
-
-<h1 align="center">Hi, I'm Tom 👋</h1>
-
-<p align="center">
-  First-class Computer Science graduate from the <b>University of Nottingham</b>, looking for my first role as a software or AI engineer on a small, fast-moving team.
+  First-class Computer Science graduate from the <b>University of Nottingham</b><br>
+  Looking for my first role as a software or AI engineer on a small, fast-moving team.
 </p>
 
 <p align="center">
@@ -37,32 +12,28 @@ I'm very happy to share this work with anyone reviewing my application:
 
 ---
 
-### What I'm looking for
+## What I'm looking for
 
-A graduate or junior engineering role somewhere small enough that I'll own real problems early, ship often, and work next to people I can learn from. I'd rather take on more responsibility sooner than optimise for salary or brand name.
+A graduate or junior engineering role somewhere small enough that I'll own real problems early, ship often, and work next to great people I can really learn from.
 
-Right now I'm most interested in **backend engineering** and **applied AI / LLM-based products** — <!-- swap these for whatever is actually true -->
+Right now I'm most interested in general **software engineering** and **applied AI engineering** roles.
 
-### What I work with
+## What I work with
 
-**Languages** — Java · Python · TypeScript · SQL · C
-**Frameworks & tools** — React · Node.js · FastAPI · PostgreSQL · Docker · Git · AWS
-**Currently learning** — <!-- e.g. Rust, LangGraph, Kubernetes -->
+**Languages** — Python, JavaScript, Java, MATLAB, HTML/CSS
+**Currently learning** — Rust
 
-<!-- Trim this to what you'd be comfortable being questioned on in an interview.
-     A short honest list beats a long wall of logos. -->
+## Things I've built
 
-### Things I've built
+**[Crop-Weed Semantic Segmentation](link)** · MATLAB, U-Net, CNN
+A computer vision model that picks out weeds among crops in field imagery, so herbicide can be targeted at individual plants instead of sprayed across whole fields. Trained a U-Net from only 50 images and ran a 6-stage ablation study across architectures, augmentations, class weighting and optimizers to squeeze performance out of a tiny dataset — **Mean IoU 0.647 → 0.760**, with the weed class (the hardest and the one that actually matters) up 33%.
+*Write-up, results and sample predictions — code available on request.*
+ 
+**[CineBot — NLP Cinema Booking Chatbot](link)** · Python, scikit-learn, NLTK
+A conversational agent that books cinema tickets end to end, with asynchronous slot-filling, interruption recovery and persistent state tracking — so it copes when a user changes their mind halfway through. An SVM intent classifier sits inside a state machine, hitting **72% accuracy across 12 intents (9× baseline)** after comparing TF-IDF configurations under stratified cross-validation.
+*Write-up, architecture diagram and example transcripts — code available on request.*
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **[Project name](link)** | One line on what it does and why you made it. | Python, FastAPI, Postgres |
-| **[Project name](link)** | One line — lead with the interesting technical bit. | TypeScript, React |
-| **[Project name](link)** | One line. | Java |
-
-<!-- Pin these same repos on your profile so they appear as cards too. -->
-
-### A note on my repositories
+## A note on my repositories
 
 Most of my repos are private. The bulk of my code is assessed university coursework, and Nottingham asks students not to publish it — later cohorts are set the same briefs.
 
