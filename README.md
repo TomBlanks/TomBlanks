@@ -18,18 +18,16 @@ Right now I'm most interested in general **software engineering** and **applied 
 | :--- | :--- | :--- | :--- |
 | **[Crop-Weed Segmentation](link)** | Spots weeds among crops in field imagery, so herbicide can be targeted at individual plants instead of sprayed across whole fields. | Mean IoU **0.647 → 0.760**, weed class **+33%**, from just 50 training images | `MATLAB` `U-Net` `CNN` |
 | **[CineBot](link)** | Books cinema tickets end to end — asynchronous slot-filling, interruption recovery and persistent state, so it copes when a user changes their mind halfway through. | **72%** intent accuracy across 12 intents — **9×** baseline | `Python` `scikit-learn` `NLTK` |
-
-<sub>The two university projects above are write-ups — results, diagrams and sample outputs. Code available on request (see below).</sub>
+| **[Multi-threaded OS Simulator](link)** | Simulates the parts of an OS that decide what runs next and for how long — process lifecycle, scheduling and concurrent access to shared state. | Round-robin scheduler and thread-safe queues over POSIX threads | `C` `pthreads` |
 
 
 ## A note on my repositories
 
-Most of my repos are private. The bulk of my code is assessed university coursework, and Nottingham asks students not to publish it — later cohorts are set the same briefs.
+Most of my repos are private. These repos above are write-ups — results, diagrams and sample outputs.
 
-I'm very happy to share any of it with anyone reviewing my application:
+The bulk of my code is assessed university coursework, and Nottingham asks students not to publish it — later cohorts are set the same briefs.
 
-- Send me your GitHub username and I'll add you as a **read-only collaborator** on any repo
-- Or I'll walk you through the code and the decisions behind it in an interview
+I'm very happy to walk through any of it in an interview.
 
 
 ## What I work with
