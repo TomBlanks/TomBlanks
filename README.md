@@ -7,7 +7,7 @@
 
 ## What I'm looking for
 
-A software engineering role somewhere small enough that I'll own real problems early, ship often, and work next to great people I can really learn from.
+A **software engineering** role somewhere small enough that I'll own real problems early, ship often, and work next to great people I can really learn from.
 
 
 ## Things I've built
