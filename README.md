@@ -2,7 +2,6 @@
 
 <p align="center">
   First-class Computer Science graduate from the <b>University of Nottingham</b><br>
-  Looking for my first role as a software or AI engineer on a small, fast-moving team.
 </p>
 
 ## What I'm looking for
