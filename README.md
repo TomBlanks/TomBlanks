@@ -7,9 +7,7 @@
 
 ## What I'm looking for
 
-A graduate or junior engineering role somewhere small enough that I'll own real problems early, ship often, and work next to great people I can really learn from.
-
-Right now I'm most interested in general **software engineering** and **applied AI engineering** roles.
+A software engineering role somewhere small enough that I'll own real problems early, ship often, and work next to great people I can really learn from.
 
 
 ## Things I've built
