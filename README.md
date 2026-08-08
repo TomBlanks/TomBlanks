@@ -15,7 +15,7 @@ A **software engineering** role somewhere small enough that I'll own real proble
 | :--- | :--- | :--- | :--- |
 | **[Crop-Weed Segmentation](link)** | Spots weeds among crops in field imagery, so herbicide can be targeted at individual plants instead of sprayed across whole fields. | Mean IoU **0.647 → 0.760**, weed class **+33%**, from just 50 training images | `MATLAB` `U-Net` `CNN` |
 | **[CineBot](link)** | Books cinema tickets end to end — asynchronous slot-filling, interruption recovery and persistent state, so it copes when a user changes their mind halfway through. | **72%** intent accuracy across 12 intents — **9×** baseline | `Python` `scikit-learn` `NLTK` |
-| **[Multi-threaded OS Simulator](link)** | Simulates a kernel scheduling processes across a pool of worker threads — round-robin scheduling, I/O blocking with interrupt-driven wakeup, and hand-built concurrent queues. | **O(1)** PID allocation and deadlock-free shutdown, via a blocking queue rather than a scanned table | `C` `pthreads` `Make` |
+| **[Multi-threaded OS Simulator](https://github.com/TomBlanks/OS-Simulator)** | Simulates a kernel scheduling processes across a pool of worker threads — round-robin scheduling, I/O blocking with interrupt-driven wakeup, and hand-built concurrent queues. | **O(1)** PID allocation and deadlock-free shutdown, via a blocking queue rather than a scanned table | `C` `pthreads` `Make` |
 
 
 ## A note on my repositories
