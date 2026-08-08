@@ -22,7 +22,7 @@ A **software engineering** role somewhere small enough that I'll own real proble
 
 Most of my repos are private. These repos above are write-ups — results, diagrams and sample outputs.
 
-The bulk of my code is assessed university coursework, and Nottingham asks students not to publish it — later cohorts are set the same briefs.
+The bulk of my code is assessed university coursework, and Nottingham asks students not to publish it — later cohorts may be set the same briefs.
 
 I'm very happy to walk through any of it in an interview.
 
