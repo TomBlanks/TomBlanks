@@ -10,7 +10,7 @@ A **software engineering** role somewhere small enough that I'll own real proble
 
 ## A note on my repositories
 
-Most of my repos are private. These repos above are write-ups — results, diagrams and sample outputs.
+Most of my repos are private.
 
 The bulk of my code is assessed university coursework, and Nottingham asks students not to publish it — later cohorts may be set the same briefs.
 
@@ -20,8 +20,6 @@ I'm very happy to walk through any of it in an interview.
 ## What I work with
 
 **Languages** — Python, JavaScript, Java, MATLAB, HTML/CSS
-
-**Currently learning** — Rust
 
 ---
 
