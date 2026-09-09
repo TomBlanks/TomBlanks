@@ -20,6 +20,7 @@ I'm very happy to walk through any of it in an interview.
 ## What I work with
 
 **Languages** — Python, JavaScript, Java, SQL, MATLAB, HTML/CSS
+
 **Tools** — Git, Vim, Claude Code, PostgreSQL, Figma
 
 ---
